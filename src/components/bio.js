@@ -34,12 +34,16 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong> who lives and works in San
-              Francisco building useful things.
+              Written by <strong>{author}</strong> who lives and works in Kochi
+              making, learning, coding.
               {` `}
-              <a href={`https://twitter.com/${social.twitter}`}>
-                You should follow him on Twitter
+              You should follow him on
+              <a href={`https://twitter.com/${social.twitter}`}>Twitter</a>
+              {` `}and{` `}
+              <a href={`https://instagram.com/${social.instagram}`}>
+                Instagram
               </a>
+              .
             </p>
           </Container>
         )
