@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     // edit below
-    title: `Rohit's blog`,
+    title: `Rohit's blogs`,
     author: `Rohit M Sasi`,
     description: `Developer based in Kochi`,
     siteUrl: `https://rohitmsasi.com`,
@@ -58,14 +58,14 @@ module.exports = {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         // edit below
-        // trackingId: `ADD YOUR TRACKING ID HERE`,
+        trackingId: `UA-148139274-1`,
       },
     },
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Rohit M Sasi`,
+        short_name: `rohit`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
