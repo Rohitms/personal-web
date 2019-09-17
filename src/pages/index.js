@@ -31,9 +31,11 @@ class IndexPage extends React.Component {
             👋
           </span>
         </h1>
-        <p>Welcome to my new website. You are on the home page and there's lot of work to be donw here.</p>
         <p>
-    
+          Welcome to my new website. You are on the home page and there's lot of
+          work to be donw here.
+        </p>
+
         <Link to="/blog/">
           <Button marginTop="35px">Go to Blog</Button>
         </Link>
