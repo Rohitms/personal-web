@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     // edit below
-    title: `Personal-web`,
+    title: `Rohit's blog`,
     author: `Rohit M Sasi`,
     description: `Developer based in Kochi`,
     siteUrl: `https://rohitmsasi.com`,
