@@ -3,11 +3,11 @@ module.exports = {
     // edit below
     title: `Personal-web`,
     author: `Rohit M Sasi`,
-    description: `A starter personal blog with styled components, dark mode, and Netlify CMS.`,
+    description: `Developer based in Kochi`,
     siteUrl: `https://rohitmsasi.com`,
     social: {
       twitter: `rohit_m_s`,
-      instagram: "rohit.m.s",
+      instagram: `rohit.m.s`,
     },
   },
   plugins: [
