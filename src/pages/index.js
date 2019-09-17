@@ -33,7 +33,7 @@ class IndexPage extends React.Component {
         </h1>
         <p>
           Welcome to my new website. You are on the home page and there's lot of
-          work to be donw here.
+          work to be done here.
         </p>
 
         <Link to="/blog/">
