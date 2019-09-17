@@ -1,6 +1,6 @@
 backend:
-name: github
-repo: rohitms/personal-web
+  name: github
+  repo: rohitms/personal-web
 
 media_folder: static/assets
 public_folder: assets
