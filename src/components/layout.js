@@ -18,6 +18,7 @@ class Layout extends React.Component {
             ...scale(1.5),
             marginBottom: rhythm(1.5),
             marginTop: 0,
+            color: `red`,
           }}
         >
           <Link
@@ -44,7 +45,7 @@ class Layout extends React.Component {
             style={{
               boxShadow: `none`,
               textDecoration: `none`,
-              color: `inherit`,
+              color: `red`,
             }}
             to={`/blog/`}
           >
@@ -54,7 +55,12 @@ class Layout extends React.Component {
       )
     }
     return (
-      <Wrapper>
+      <Wrapper
+        style={{
+          color: `white`,
+          backgroundColor: `black`,
+        }}
+      >
         <div
           style={{
             marginLeft: `auto`,
