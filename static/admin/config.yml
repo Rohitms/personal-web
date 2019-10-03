@@ -8,6 +8,7 @@ public_folder: assets
 collections:
   - name: blog
     label: Blog
+    delete: false
     folder: content/blog
     create: true
     fields:
